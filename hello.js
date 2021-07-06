@@ -6,4 +6,4 @@ Hello()
 function greeting(name){
     console.log('My name is '+name)
 }
-greeting('Mahamud Hasan Imon')
+greeting('Mr.X')
