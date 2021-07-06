@@ -4,11 +4,11 @@ function Hello(){
 Hello()
 
 function greeting(name){
-    console.log('My name is '+name)
+    console.log('His name is '+name)
 }
-greeting('Mahamud Hasan Imon')
 
 function sqr(n){
     return n*n
 }
 console.log(sqr(5))
+greeting('Mr.X')
